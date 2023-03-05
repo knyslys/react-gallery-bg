@@ -1,0 +1,9 @@
+.gallery-selectedImage {
+  width: 20rem;
+  justify-self: center;
+  align-self: center;
+}
+
+.gallery-selectedImage img {
+  width: 100%;
+}
